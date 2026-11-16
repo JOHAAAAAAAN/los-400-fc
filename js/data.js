@@ -47,6 +47,7 @@ const PARTIDOS = [
   { fecha: "2026-11-04", Isra: ["D", 1], Mois: ["D", 2], Seba: ["V", 3], Mai: ["D", 3] },
   { fecha: "2026-11-05", Isra: ["V", 2], Mois: ["V", 4], Mai: ["V", 1] },
   { fecha: "2026-11-08", Isra: ["D", 0], Mois: ["V", 2], Seba: ["D", 4], Mai: ["V", 3] },
+  { fecha: "2026-11-11", Isra: ["E", 1], Mois: ["E", 2], Seba: ["E", 2]},
   
 
 ];
